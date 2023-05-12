@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Testovoe9</string>
+    <string name="facts">FACTS</string>
+    <string name="achievements">ACHIEVEMENTS</string>
+    <string name="true_or_not">TRUE OR NOT</string>
+    <string name="settings">SETTINGS</string>
+    <string name="retry">RETRY</string>
+    <string name="clear_progress">CLEAR PROGRESS</string>
+    <string name="notifications">NOTIFICATIONS</string>
+</resources>
